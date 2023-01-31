@@ -1,4 +1,4 @@
-# HDRIs Downloader
+# Polyhaven HDRIs Downloader
 
 A Python script for downloading High Dynamic Range Images (HDRIs) from [Polyhaven](https://polyhaven.com/). This script utilizes the [Pillar](https://github.com/pillar-framework/pillar) library for compressing thumbnails.
 
