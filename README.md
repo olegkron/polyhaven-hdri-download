@@ -46,4 +46,4 @@ Contributions are welcome! Please open an issue or create a pull request for any
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/olegkron/polyhaven-hdri-download/LICENSE).
+This project is licensed under the [MIT License](https://github.com/olegkron/polyhaven-hdri-download/blob/main/LICENSE).
