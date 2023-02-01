@@ -23,7 +23,7 @@ A Python script for downloading High Dynamic Range Images (HDRIs) from [Polyhave
 
 bashCopy code
 
-`git clone https://github.com/[YOUR_USERNAME]/hdri-downloader.git`
+`git clone https://github.com/olegkron/polyhaven-hdri-download.git`
 
 2.  Install the required packages
 
@@ -46,4 +46,4 @@ Contributions are welcome! Please open an issue or create a pull request for any
 
 ## License
 
-This project is licensed under the [MIT License](https://chat.openai.com/LICENSE).
+This project is licensed under the [MIT License](https://github.com/olegkron/polyhaven-hdri-download/LICENSE).
